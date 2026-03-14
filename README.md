@@ -6,7 +6,7 @@ A Power BI project analyzing agricultural productivity across Indian states. The
 
 Power BI – Dashboard & KPIs
 
-Excel/CSV – Dataset
+Excel/CSV – Dataset taken from kaggle public daset.
 
 PowerPoint – Project presentation
 
